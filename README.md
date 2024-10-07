@@ -5,6 +5,10 @@ Andy Warhol (1928-1987) was a leading figure in the Pop Art movement, known for 
 
 #The Father?
 What specifically about Warhol's techniques made him the father of pop art?
-.ve-header "SOUP?" gh:HIPPO-FOOT/media/Campbells/campbells_6.webp
+
+.ve-media "SOUP?"gh:HIPPO-FOOT/media/Campbells/campbells_6.webp.manifest.json
 
 
+"SOUP?" gh:HIPPO-FOOT/media/Campbells/campbells_6.webp
+
+https://iiif.juncture-digital.org
