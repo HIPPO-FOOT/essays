@@ -27,6 +27,8 @@ The videos do a great job to further explain the importance and significance and
 .ve-media gh:HIPPO-FOOT/media/Campbells/banana_2.webp width=450px
  One of Andy Warhol's most famous works is his 1967 banana artwork. The Velvet Underground & Nico's LP cover was its first use. Warhol's fascination with commonplace items and popular culture was evident in this straightforward yet interesting image. An interactive aspect was added when the banana's peelable sticker revealed a pink fruit underneath. It became an icon of the Pop Art movement and the counterculture of the 1960s because of its playful nature and connection to The Velvet Underground. If someone didn't grasp the insanity and wildness of his work before, this would surely do the trick. 
  
+ ==Andy Warhol=={Q5603}
+ 
 
 
 
